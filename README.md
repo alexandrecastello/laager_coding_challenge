@@ -12,8 +12,9 @@ Este repositório contém o código-fonte para uma lista ligada simples (LinkedL
   - `linked_list_test.rb`: Testa de forma automatizada a classe LinkedList.
   - `test.rb`: Testa de forma visual a classe LinkedList no próprio terminal.
 
-- **README.md**: Main documentation file providing an overview, usage instructions, and other relevant information.
-
+- **README.md**: Documentação principal do repositório com as informações mais relevantes do projeto.
+- **Challenge.txt**: Enunciado do desafio em questão.
+- 
 ## Classes
 
 As classes estão localizadas na pasta lib. As classes são:
