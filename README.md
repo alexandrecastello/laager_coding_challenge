@@ -1,6 +1,6 @@
 # Laager Coding Challenge Repository
 
-Este repositório contém o código-fonte para uma lista ligada simples (LinkedList) em Ruby. A lista encadeada é uma estrutura de dados linear, onde cada nó aponta para o próximo nó (Node).
+Este repositório contém o código-fonte para uma lista ligada simples (LinkedList) em Ruby. A lista ligada é uma estrutura de dados linear, onde cada nó aponta para o próximo nó (Node).
 
 ## Directory Structure
 
