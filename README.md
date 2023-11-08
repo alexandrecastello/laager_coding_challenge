@@ -5,8 +5,8 @@ Este repositório contém o código-fonte para uma lista ligada simples (LinkedL
 ## Directory Structure
 
 - **lib**: Main library files.
-  - `node.rb`: The file containing the `Node` class.
-  - `linked_list.rb`: The file containing the `LinkedList` class.
+  - `node.rb`: Arquivo contendo a classe `Node`.
+  - `linked_list.rb`: Arquivo contendo a classe `LinkedList`.
 
 - **test**: Arquivos de teste para as classes.
   - `linked_list_test.rb`: Testa de forma automatizada a classe LinkedList.
