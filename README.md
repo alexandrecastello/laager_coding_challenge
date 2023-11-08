@@ -24,13 +24,15 @@ As classes estão localizadas na pasta lib. As classes são:
   - `LinkedList`:
   Representa uma lista ligada. Possui um único atributo, head, que armazena o primeiro nó.
 
-## Funções
+## Métodos
 
-As funções disponíveis auxiliam na manipulação das classes descritas anteriormente.
+Os métodos disponíveis auxiliam na manipulação das classes descritas anteriormente.
 
-  - `LinkedList#add`: Esta função adiciona um nó ao final de sua lista ligada. Caso não haja nenhum nó, este será o primeiro.
-  - `LinkedList#text`: Esta função retorna a lista como uma `string` tendo seus nós separados por `, `.
-  - `LinkedList#inverte`: Esta função inverte a ordem dos nós da lista ligada. O usuário pode usá-la mais de uma vez a fim de desinvertê-la.
+  - `LinkedList#add`: Este método adiciona um nó ao final de sua lista ligada. Caso não haja nenhum nó, este será o primeiro.
+  - `LinkedList#inverte`: Este método associa o head de uma lista ligada invertida ao último elemento da lista ligada original (não invertida).
+  - `LinkedList#text`: Este método retorna a lista como uma `string` tendo seus nós separados por `, `.
+  - `LinkedList#print`: Este método exibe todos os nós de uma lista ligada na forma de lista no terminal do usuário.
+  - `LinkedList#inverteLista`: Este método privado recebe como parâmetro o nó de uma lista, realiza a inversão dos nós subsequentes.
 
 ## Testes
 
